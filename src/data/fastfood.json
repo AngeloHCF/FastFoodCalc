@@ -1,0 +1,93 @@
+{
+  "McDonalds": {
+    "logo": "https://blog.logomyway.com/wp-content/uploads/2017/01/mcdonalds-logo-1.jpg",
+    "entrees": [
+      { "item": "Big Mac", "calories": 580, "protein": 25, "carbs": 45, "fat": 34, "sodium": 1060 },
+      { "item": "McChicken", "calories": 390, "protein": 14, "carbs": 38, "fat": 21, "sodium": 560 },
+      { "item": "Quarter Pounder with Cheese", "calories": 520, "protein": 30, "carbs": 42, "fat": 26, "sodium": 1140 },
+      { "item": "Double Quarter pounder with Cheese", "calories": 740, "protein": 48, "carbs": 43, "fat": 42, "sodium": 1360 },
+      { "item": "Quarter Pounder with Cheese Deluxe", "calories": 630, "protein": 30, "carbs": 44, "fat": 37, "sodium": 1210 },
+      { "item": "McDouble", "calories": 390, "protein": 22, "carbs": 32, "fat": 20, "sodium": 920 },
+      { "item": "Daily Double", "calories": 490, "protein": 22, "carbs": 30, "fat": 31, "sodium": 810 },
+      { "item": "Bacon Quarter Pounder with Cheese", "calories": 630, "protein": 36, "carbs": 43, "fat": 35, "sodium": 1470 },
+      { "item": "Cheeseburger", "calories": 300, "protein": 15, "carbs": 31, "fat": 13, "sodium": 720 },
+      { "item": "Double Cheeseburger", "calories": 440, "protein": 25, "carbs": 34, "fat": 24, "sodium": 1120 },
+      { "item": "Hamburger: The Classic McDonald's Burger", "calories": 250, "protein": 12, "carbs": 30, "fat": 9, "sodium": 510 },
+      { "item": "McCrispy", "calories": 470, "protein": 26, "carbs": 46, "fat": 20, "sodium": 1140 },
+      { "item": "Deluxe McCrispy", "calories": 530, "protein": 27, "carbs": 48, "fat": 26, "sodium": 1050 },
+      { "item": "Spicy McCrispy", "calories": 530, "protein": 27, "carbs": 48, "fat": 26, "sodium": 1320 },
+      { "item": "Spicy Deluxe McCrispy", "calories": 530, "protein": 27, "carbs": 49, "fat": 26, "sodium": 1200 },
+      { "item": "Filet-O-Fish", "calories": 380, "protein": 16, "carbs": 38, "fat": 19, "sodium": 580 },
+      { "item": "Chicken McNuggets",
+        "size": [
+          { "name": "4", "calories": 170, "protein": 9, "carbs": 10, "fat": 10, "sodium": 340 },
+          { "name": "6", "calories": 250, "protein": 14, "carbs": 15, "fat": 15, "sodium": 500 },
+          { "name": "10", "calories": 410, "protein": 23, "carbs": 26, "fat": 24, "sodium": 850 },
+          { "name": "20", "calories": 830, "protein": 46, "carbs": 51, "fat": 49, "sodium": 1700 },
+          { "name": "40", "calories": 1650, "protein": 92, "carbs": 102, "fat": 98, "sodium": 3400 }
+        ]
+      },
+      { "item": "McCrispy Strips", 
+        "size": [
+          { "name": "3", "calories": 350, "protein": 30, "carbs": 18, "fat": 17, "sodium": 1100 },
+          { "name": "4", "calories": 460, "protein": 40, "carbs": 24, "fat": 23, "sodium": 1470 }
+        ]
+      }
+
+    ],
+    "breakfast": [
+      { "item": "Bacon, Egg & Cheese Biscuit", "calories": 460, "protein": 17, "carbs": 39, "fat": 26, "sodium": 1330 },
+      { "item": "Egg McMuffin", "calories": 310, "protein": 17, "carbs": 30, "fat": 13, "sodium": 770 },
+      { "item": "Sausage McMuffin", "calories": 400, "protein": 14, "carbs": 28, "fat": 26, "sodium": 760 },
+      { "item": "Sausage McMuffin with Egg", "calories": 480, "protein": 20, "carbs": 30, "fat": 31, "sodium": 830 },
+      { "item": "Sausage Biscuit", "calories": 460, "protein": 11, "carbs": 37, "fat": 30, "sodium": 1090 },
+      { "item": "Sausage Biscuit with Egg", "calories": 530, "protein": 17, "carbs": 38, "fat": 35, "sodium": 1190 },
+      { "item": "Bacon, Egg & Cheese McGriddles", "calories": 430, "protein": 17, "carbs": 44, "fat": 21, "sodium": 1230 },
+      { "item": "Sausage McGriddles", "calories": 430, "protein": 11, "carbs": 41, "fat": 24, "sodium": 990 },
+      { "item": "Sausage, Egg & Cheese McGriddles", "calories": 550, "protein": 19, "carbs": 44, "fat": 33, "sodium": 1290 },
+      { "item": "Bacon, Egg & Cheese Bagel", "calories": 590, "protein": 25, "carbs": 56, "fat": 30, "sodium": 1320 },
+      { "item": "Sausage, Egg & Cheese Bagel", "calories": 710, "protein": 27, "carbs": 56, "fat": 42, "sodium": 1380 },
+      { "item": "Steak, Egg & Cheese Bagel", "calories": 680, "protein": 34, "carbs": 57, "fat": 57, "sodium": 1510 },
+      { "item": "Bagel (plain)", "calories": 270, "protein": 9, "carbs": 51, "fat": 3.5, "sodium": 550 },
+      { "item": "Egg and Cheese Bagel", "calories": 520, "protein": 21, "carbs": 55, "fat": 24, "sodium": 1100 },
+      { "item": "Big Breakfast", "calories": 1060, "protein": 26, "carbs": 131, "fat": 48, "sodium": 1540 },
+      { "item": "Big Breakfast with Hotcakes", "calories": 1340, "protein": 36, "carbs": 158, "fat": 63, "sodium": 2070 },
+      { "item": "Hotcakes", "calories": 580, "protein": 9, "carbs": 101, "fat": 15, "sodium": 530 },
+      { "item": "Hotcakes and Sausage", "calories": 770, "protein": 15, "carbs": 102, "fat": 33, "sodium": 810 },
+      { "item": "Sausage Burrito", "calories": 310, "protein": 13, "carbs": 25, "fat": 17, "sodium": 800 },
+      { "item": "Fruit & Maple Oatmeal", "calories": 320, "protein": 6, "carbs": 64, "fat": 4.5, "sodium": 150 },
+      { "item": "Hashbrowns", "calories": 140, "protein": 2, "carbs": 18, "fat": 8, "sodium": 310 }
+    ],
+    "sides": [
+      { "item": "Fries", 
+        "sizes": [
+          { "name": "Kids", "calories": 110, "protein": 2, "carbs": 14, "fat": 5, "sodium": 90 },
+          { "name": "Small", "calories": 230, "protein": 3, "carbs": 31, "fat": 11, "sodium": 190 },
+          { "name": "Medium", "calories": 320, "protein": 5, "carbs": 43, "fat": 15, "sodium": 260 },
+          { "name": "Large", "calories": 480, "protein": 7, "carbs": 65, "fat": 23, "sodium": 400 }
+        ]
+      },
+      { "item": "Hashbrowns", "calories": 140, "protein": 2, "carbs": 18, "fat": 8, "sodium": 310 },
+      { "item": "Apple Slices", "calories": 15, "protein": 0, "carbs": 4, "fat": 0, "sodium": 0 }
+    ]
+  },
+  "BurgerKing": {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burger_King_logo_%281999%E2%80%932020%29.svg/2024px-Burger_King_logo_%281999%E2%80%932020%29.svg.png",
+    "entrees": [
+      { "item": "Bacon Double Cheeseburger", "calories": 440, "protein": 27, "carbs": 30, "fat": 24, "sodium": 970 },
+      { "item": "Bacon Cheeseburger", "calories": 340, "protein": 18, "carbs": 30, "fat": 24, "sodium": 970 }
+    ]
+  },
+  "TacoBell": {
+    "logo": "https://cdn.worldvectorlogo.com/logos/taco-bell-7.svg"
+  },
+  "Popeyes": {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Popeyes_logo.svg/1841px-Popeyes_logo.svg.png"
+  },
+  "Wingstop": {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Wingstop_logo.svg/1200px-Wingstop_logo.svg.png"
+  },
+  "ChickFilA": {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Chick-fil-A_Logo.svg/2560px-Chick-fil-A_Logo.svg.png"
+  }
+}
