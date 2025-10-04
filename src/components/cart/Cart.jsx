@@ -40,19 +40,19 @@ function Cart({ isExpanded, setIsExpanded }) {
   };
 
   return (
-    <div className={`${isExpanded ? 'w-4/3' : 'w-1/3'} h-full transition-all duration-500`}>
+    <div className={`${isExpanded ? 'w-4/3' : 'w-1/3'} transition-all duration-500`}>
       <h2 className="pt-10 pb-5 font-[Poppins] text-lg sm:text-xl md:text-2xl lg:text-3xl text-center">Your Meal</h2>
       <NutritionCalculator onUpdateGoals={setNutritionGoals}/>
       
-      <div className="flex h-screen">
-        <div className={`absolute ${isExpanded ? "w-1/3" : "w-1/24" } h-full overflow-hidden transition-all duration-500`}>
+      <div className="flex h-3/4">
+        <div className={`absolute ${isExpanded ? "w-1/3" : "w-1/24" } transition-all duration-500`}>
           <div className="flex">
             <p>poop image</p>
             <p className={`${isExpanded ? "flex" : "hidden" }`}>Here are the meals angelo ate: poop, chicken</p>
           </div>
         </div>
 
-        <div className="absolute w-7/24 px-10 right-0 flex-1 h-full overflow-y-auto">
+        <div className="absolute w-7/24 px-10 right-0 flex-1 h-5/6 overflow-y-auto">
           {Object.entries(nutritionGoals).map(([ category, items ], index) => (
             <div key={index}>
               <h3 className="font-bold mt-5">{category}</h3>

@@ -45,7 +45,6 @@ function NutritionCalculator({ onUpdateGoals }) {
         <option value="31-50">31-50</option>
         <option value="51+">51+</option>
       </select>
-      <button onClick={handleUpdate}>Update</button>
     </div>
   );
 }
